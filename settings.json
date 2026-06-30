@@ -8,7 +8,7 @@
   "server": {
     "ip": "hamlet.aternos.host",
     "port": 15948,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
