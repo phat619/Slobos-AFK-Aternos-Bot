@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mudfish.aternos.host",
+    "ip": "hamlet.aternos.host",
     "port": 15948,
     "version": "26.1.2",
     "try-creative": false
